@@ -1,4 +1,6 @@
 # Data-Manager
+# Final Version is at: Data-Manager/checkpoint-templates/project_milestone_template.ipynb
+
 # Purpose
 <span style="color:blue">I plan on making a line graph with two data sets. The y axis will be percentage and the x axis will be years. I will have one data set showing the percentage of newspaper endoresment towards republican over each electon. The next data set will be the percentage of republican votes over each election. I will try and see if there is a correlation between the two data sets.</span>
 
